@@ -64,7 +64,7 @@ function generatePassword() {
 
 console.log(passwordCharacters)
 
-// String to generate new password
+// String filled to generate new password
       var randomPassword = ""
       
       for (var i = 0; i < confirmLength; i++) {

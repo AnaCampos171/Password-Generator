@@ -21,4 +21,4 @@ Many Thanks to the UCR Coding Bootcamp team and my wonderful classmates for supp
 ## License
 N/A
 ## Link to deployed application
-https://anacampos171.github.io/#3-Challenge/
+https://anacampos171.github.io/-3-Challenge/

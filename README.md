@@ -8,7 +8,12 @@ N/A we don’t have any steps to take to install anything for our webpage
 
 ## Usage
  Revision and editing of the script.js file renders the following webpage
- User is prompted to choose criteria for the generation of a new password. Once all criteria is defined, a novel password will appear in the "your secure password" box
+
+ User is prompted to choose criteria for the generation of a new password.
+
+ Once all criteria is defined, a novel password will appear in the "your secure password" box
+ 
+ 
  ![Alt text](Assets/Password%20Generator%20Webpage.png)
  
 ## Credits
